@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main/image/AddIcon.png</file>
+        <file>main/image/avatar_en.png</file>
+        <file>main/image/backstageManagementIcon.png</file>
+        <file>main/image/Contactsicon.png</file>
+        <file>main/image/documenticon.png</file>
+        <file>main/image/emailicon.png</file>
+        <file>main/image/Meetingicon.png</file>
+        <file>main/image/messageicon.png</file>
+        <file>main/image/MoreIcon.png</file>
+        <file>main/image/scheduleicon.png</file>
+        <file>main/image/SearchIcon.png</file>
+        <file>main/image/Union.png</file>
+    </qresource>
+</RCC>

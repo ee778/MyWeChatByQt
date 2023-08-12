@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat",
+	"CMAKE_SOURCE_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat",
+	"INCLUDE_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/SearchIcon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/Union.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/Contactsicon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/Meetingicon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/messageicon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/documenticon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/MoreIcon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/avatar_en.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/backstageManagementIcon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/scheduleicon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/AddIcon.png",
+		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main/image/emailicon.png"
+	],
+	"LOCK_FILE" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/WeChat_autogen.dir/AutoRcc_main_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "main" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_main.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/WeChat_autogen.dir/AutoRcc_main_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main.qrc",
+	"VERBOSITY" : 0
+}

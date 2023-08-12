@@ -1,0 +1,59 @@
+# ninja log v5
+6	210	7135462654845671	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+2	510	7135394294717196	build.ninja	da32c1730796e600
+637	2425	7135394332071349	CMakeFiles/WeChat.dir/main.cpp.obj	dd3e466916b76251
+6	210	7135462654845671	WeChat_autogen/timestamp	e0169019359d9d2a
+6	210	7135462654845671	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+215	1821	7135399285108896	CMakeFiles/WeChat.dir/mainwindow.cpp.obj	90f10314f7397871
+6	210	7135462654845671	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+641	2304	7135394330851072	CMakeFiles/WeChat.dir/WeChat_autogen/mocs_compilation.cpp.obj	3c6d07dad642e9ee
+1804	2172	7135462672630955	WeChat.exe	b7bfb5a51b208c0f
+567	637	7135394314154718	WeChat_autogen/EWIEGA46WW/qrc_main.cpp	c29142d43c3055bc
+567	637	7135394314154718	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/EWIEGA46WW/qrc_main.cpp	c29142d43c3055bc
+659	1120	7135394319008466	CMakeFiles/WeChat.dir/WeChat_autogen/EWIEGA46WW/qrc_main.cpp.obj	fd1144f4ca8e299f
+645	2291	7135394330721125	CMakeFiles/WeChat.dir/chatlistwidget.cpp.obj	5f7120e20a8dd84e
+215	1803	7135462670788487	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+6	200	7135464474960775	WeChat_autogen/timestamp	e0169019359d9d2a
+6	200	7135464474960775	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+6	200	7135464474960775	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+6	200	7135464474960775	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+206	1765	7135464490599028	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1765	2121	7135464492396819	WeChat.exe	b7bfb5a51b208c0f
+6	206	7135467626441920	WeChat_autogen/timestamp	e0169019359d9d2a
+6	206	7135467626441920	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+6	206	7135467626441920	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+6	206	7135467626441920	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+212	1562	7135467639999487	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1562	1943	7135467641819437	WeChat.exe	b7bfb5a51b208c0f
+7	203	7135469267513434	WeChat_autogen/timestamp	e0169019359d9d2a
+7	203	7135469267513434	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+7	203	7135469267513434	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+7	203	7135469267513434	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+210	1683	7135469282334639	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1683	2055	7135469284180034	WeChat.exe	b7bfb5a51b208c0f
+6	210	7135470132102180	WeChat_autogen/timestamp	e0169019359d9d2a
+6	210	7135470132102180	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+6	210	7135470132102180	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+6	210	7135470132102180	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+216	1594	7135470145948336	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1595	1958	7135470147787192	WeChat.exe	b7bfb5a51b208c0f
+7	204	7135471200482012	WeChat_autogen/timestamp	e0169019359d9d2a
+7	204	7135471200482012	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+7	204	7135471200482012	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+7	204	7135471200482012	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+209	1506	7135471213507635	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1506	1897	7135471215466219	WeChat.exe	b7bfb5a51b208c0f
+9	595	7135483282951413	WeChat_autogen/timestamp	e0169019359d9d2a
+9	595	7135483282951413	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+9	595	7135483282951413	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+9	595	7135483282951413	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+610	3402	7135483312274339	CMakeFiles/WeChat.dir/mainwindow.cpp.obj	90f10314f7397871
+614	3442	7135483312664302	CMakeFiles/WeChat.dir/chatlistwidget.cpp.obj	5f7120e20a8dd84e
+601	3463	7135483312884326	CMakeFiles/WeChat.dir/WeChat_autogen/mocs_compilation.cpp.obj	3c6d07dad642e9ee
+596	3627	7135483314524636	CMakeFiles/WeChat.dir/main.cpp.obj	dd3e466916b76251
+7	219	7135483372273227	WeChat_autogen/timestamp	e0169019359d9d2a
+7	219	7135483372273227	WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+7	219	7135483372273227	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/timestamp	e0169019359d9d2a
+7	219	7135483372273227	C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp	e0169019359d9d2a
+225	1766	7135483387696238	CMakeFiles/WeChat.dir/leftbarwidget.cpp.obj	616a8c328238eb4e
+1767	2206	7135483390069178	WeChat.exe	b7bfb5a51b208c0f

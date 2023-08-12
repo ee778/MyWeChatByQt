@@ -1,0 +1,5 @@
+C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/WeChat.dir
+C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/WeChat_autogen_timestamp_deps.dir
+C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/CMakeFiles/WeChat_autogen.dir

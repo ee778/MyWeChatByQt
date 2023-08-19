@@ -11,6 +11,7 @@ class LeftBarWidget : public QWidget
 public:
     explicit LeftBarWidget(QWidget *parent = nullptr);
     ~LeftBarWidget() override;
+	void ResizeWindows(int width, int height);   // 根据父接口来来重设窗口的高度 可以不用传参数，直接读取父窗口的高度 不行，因为没有父窗口这个参数
 	void initUI();
 private:
 	QGroupBox *m_pLeftSidebarBox;  // 左侧边栏

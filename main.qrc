@@ -12,5 +12,16 @@
         <file>main/image/scheduleicon.png</file>
         <file>main/image/SearchIcon.png</file>
         <file>main/image/Union.png</file>
+        <file>main/avatar/avatar1.png</file>
+        <file>main/avatar/avatar2.png</file>
+        <file>main/avatar/avatar3.png</file>
+        <file>main/avatar/avatar4.png</file>
+        <file>main/avatar/avatar5.png</file>
+        <file>main/avatar/avatar6.png</file>
+        <file>main/avatar/avatar7.png</file>
+        <file>main/avatar/avatar8.png</file>
+        <file>main/avatar/avatar9.png</file>
+        <file>main/avatar/avatar10.png</file>
+        <file>main/avatar/Rectangle33.png</file>
     </qresource>
 </RCC>

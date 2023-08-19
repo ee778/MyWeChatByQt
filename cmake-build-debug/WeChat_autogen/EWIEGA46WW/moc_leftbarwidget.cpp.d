@@ -1,5 +1,6 @@
 C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/EWIEGA46WW/moc_leftbarwidget.cpp: C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/leftbarwidget.h \
   C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/moc_predefs.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/QDebug \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qalgorithms.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qarraydata.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qatomic.h \
@@ -12,7 +13,12 @@ C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-deb
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qconfig.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qcontainerfwd.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qcoreevent.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qdatastream.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qdebug.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qfile.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qfiledevice.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qflags.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qgenericatomic.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qglobal.h \
@@ -23,7 +29,9 @@ C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-deb
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qiterator.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qline.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qlist.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qlocale.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qlogging.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qmap.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qmargins.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qmetatype.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qnamespace.h \
@@ -39,6 +47,7 @@ C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-deb
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qrefcount.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qregexp.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qset.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qshareddata.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qsharedpointer.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qsharedpointer_impl.h \
@@ -52,13 +61,18 @@ C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-deb
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qsysinfo.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qsystemdetection.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qtcore-config.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qtextstream.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qurl.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtCore/qvariant.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qvector.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qversiontagging.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtGui/QResizeEvent \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qbrush.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qcolor.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qcursor.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtGui/qevent.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qfont.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qfontinfo.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qfontmetrics.h \
@@ -75,7 +89,9 @@ C:/Users/23776/OneDrive\ -\ stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-deb
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qrgba64.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qtgui-config.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtGui/qtouchdevice.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qtransform.h \
+  C:/Qt/5.15.2/mingw81_64/include/QtGui/qvector2d.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qwindowdefs.h \
   C:/Qt/5.15.2/mingw81_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QGridLayout \

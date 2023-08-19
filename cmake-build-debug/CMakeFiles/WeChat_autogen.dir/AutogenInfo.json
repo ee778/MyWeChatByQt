@@ -71,6 +71,11 @@
 		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
 		"C:/Users/23776/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
 		"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/main.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat",
@@ -101,12 +106,24 @@
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
+		],
+		[
+			"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/messageinfobox.h",
+			"MU",
+			"EWIEGA46WW/moc_messageinfobox.cpp",
+			null
+		],
+		[
+			"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/testsql.h",
+			"MU",
+			"EWIEGA46WW/moc_testsql.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/cmake-build-debug/WeChat_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -122,6 +139,7 @@
 		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
 		"C:/Qt/5.15.2/mingw81_64/include/QtANGLE",
 		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Qt/5.15.2/mingw81_64/include/QtSql",
 		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
 		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
 		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
@@ -170,6 +188,11 @@
 		],
 		[
 			"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/23776/OneDrive - stu.fosu.edu.cn/QtCode/WeChat/WeChat/messageinfobox.cpp",
 			"MU",
 			null
 		]

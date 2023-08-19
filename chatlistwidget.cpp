@@ -1,6 +1,6 @@
 ﻿#include "chatlistwidget.h"
 #include "mainwindow.h"
-
+#include <QHeaderView>
 ChatListWidget::ChatListWidget(QWidget *parent): QWidget(parent) {
 	this->resize(307, 852);
 	this->setWindowFlags(Qt::CustomizeWindowHint|Qt::FramelessWindowHint);
@@ -21,6 +21,7 @@ ChatListWidget::~ChatListWidget() {
 
 // 初始化头部区域
 void ChatListWidget::InitTopAear() {
+	// 头部框
 	m_pTopComponentBox = new QGroupBox(this);
 	m_pTopComponentBox->setGeometry(0, 0, 307, 62);
 
@@ -51,6 +52,23 @@ void ChatListWidget::InitTopAear() {
 	m_pSearchIcon->move(0, 2);
     m_pSearchIcon->setStyleSheet("position: static;opacity: 1;left: 0px; top: 2.5px; width: 12px; height: 12px;");
     // background-color: #8F9BAD;
+
+
+
+}
+void ChatListWidget::InitMessageTable() {
+	// 聊天列表显示
+	m_iMessageInfoTableWidget = new QTableWidget(this);
+	m_iMessageInfoTableWidget->setGeometry(0, m_pTopComponentBox->height(), 307, 804);
+	m_iMessageInfoTableWidget->setSelectionBehavior(QAbstractItemView::SelectRows);
+	m_iMessageInfoTableWidget->horizontalHeader()->setVisible(false);   // 隐藏水平表头
+
+	// 这里是进行测试的
+	for (int i = 0; i < 10; i++) {
+
+	}
+}
+void ChatListWidget::ResizeWindows() {
 
 }
 

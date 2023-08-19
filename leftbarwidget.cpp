@@ -4,10 +4,6 @@
 // 左侧边栏的样式
 const QString LeftSideBarQSS = "QWidget{\n"
 							   "    position: absolute;\n"
-							   "    left: 0px;\n"
-							   "    top: 0px;\n"
-							   "    width: 144px;\n"
-							   "    height: 854px;\n"
 							   "    opacity: 1;\n"
 							   "    background-color: #E9E7EA;\n"
 							   "    border: none"
@@ -15,10 +11,6 @@ const QString LeftSideBarQSS = "QWidget{\n"
 // 头像组件样式
 const QString AvatarComponentQSS = "QWidget {\n"
 								   "    position: absolute;\n"
-								   "    left: 16px;\n"
-								   "    top: 44px;\n"
-								   "    width: 82px;\n"
-								   "    height: 24px;\n"
 								   "    opacity: 1;\n"
 								   "    padding: 0px;\n"
 								   "    spacing: 8px;\n"
@@ -27,10 +19,6 @@ const QString AvatarComponentQSS = "QWidget {\n"
 // 底部组件框
 const QString BottomComponentQSS = "QWidget#bottomIcons {\n"
 								   "    position: absolute;\n"
-								   "    left: 20px;\n"
-								   "    top: 787px;\n"
-								   "    width: 78px;\n"
-								   "    height: 52px;\n"
 								   "    opacity: 1;\n"
 								   "    padding: 0px;\n"
 								   "    spacing: 16px;\n"
@@ -39,7 +27,7 @@ const QString BottomComponentQSS = "QWidget#bottomIcons {\n"
 LeftBarWidget::LeftBarWidget(QWidget *parent) :
     QWidget(parent)
 {
-	this->resize(144, 854);
+	this->resize(144, parent->height()); // 854
 	this->setWindowFlags(Qt::CustomizeWindowHint|Qt::FramelessWindowHint);
 	this->hide();
 
@@ -62,10 +50,12 @@ LeftBarWidget::~LeftBarWidget()
 
 }
 void LeftBarWidget::initUI() {
+	// 左边的整体box
 	m_pLeftSidebarBox = new QGroupBox(this);
-	m_pLeftSidebarBox->setGeometry(0, 0, 144, 854);
+	m_pLeftSidebarBox->setGeometry(0, 0, 144, this->height());
 	m_pLeftSidebarBox->setStyleSheet(LeftSideBarQSS);
 
+	// 头像部分的box
 	m_pAvatarComponentBox = new QGroupBox(m_pLeftSidebarBox);
 	m_pAvatarComponentBox->setGeometry(16, 44, 82, 24);
 	m_pAvatarComponentBox->setStyleSheet(AvatarComponentQSS);
@@ -254,5 +244,13 @@ void LeftBarWidget::initUI() {
 	// 选中背景
 	m_pSelectBackground = new QGroupBox(this);
 	m_pSelectBackground->setGeometry(12, 88, 120, 32);
-	m_pSelectBackground->setStyleSheet("border-radius: 5px; opacity: 1; background-color: rgba(64, 124, 232, 0.2);");
+	m_pSelectBackground->setStyleSheet("border-radius: 5px; opacity: 0.2; background-color: rgba(64, 124, 232, 0.2);");
+	m_pSelectBackground->stackUnder(m_pLeftMenuBar);
 }
+void LeftBarWidget::ResizeWindows(int width, int height) {
+	Q_UNUSED(width);
+	this->resize(144, height);
+	m_pLeftSidebarBox->setGeometry(0, 0, 144, this->height());
+	m_pBottomComponentBox->setGeometry(20, m_pLeftSidebarBox->height() - 67, 78, 52);
+}
+

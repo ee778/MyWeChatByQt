@@ -12,14 +12,17 @@ find_package(Qt5 COMPONENTS
         Core
         Gui
         Widgets
+        Sql
         REQUIRED)
 
 add_executable(WeChat main.cpp mainwindow.cpp mainwindow.h
-    main.qrc GlobalResoure.h chatlistwidget.h chatlistwidget.cpp leftbarwidget.cpp leftbarwidget.h)
+    main.qrc GlobalResoure.h chatlistwidget.h chatlistwidget.cpp leftbarwidget.cpp leftbarwidget.h testsql.h
+        messageinfobox.cpp messageinfobox.h)
 target_link_libraries(WeChat
         Qt5::Core
         Qt5::Gui
         Qt5::Widgets
+        Qt5::Sql
         )
 
 if (WIN32)

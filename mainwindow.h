@@ -17,7 +17,8 @@ class mainwindow : public QWidget {
 	explicit mainwindow(QWidget *parent = nullptr);
 	~mainwindow() override;
 	void initUI();  // 用于初始化界面
-
+ protected:
+	void resizeEvent(QResizeEvent *event) override;
  private:
 	LeftBarWidget *m_pLeftBarWidget;
 

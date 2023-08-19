@@ -2,3 +2,4 @@
 #include "EWIEGA46WW/moc_chatlistwidget.cpp"
 #include "EWIEGA46WW/moc_leftbarwidget.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
+#include "EWIEGA46WW/moc_messageinfobox.cpp"

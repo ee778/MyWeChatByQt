@@ -8,4 +8,8 @@
 #include <QGroupBox>
 #include <QGridLayout>
 #include <QVBoxLayout>
+#include <vector>
+
+#include <QResizeEvent>
+#include <QDebug>
 #endif //WECHAT_MAIN_GLOBALRESOURE_H_
